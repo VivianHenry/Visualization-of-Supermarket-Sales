@@ -1,4 +1,4 @@
-<h1>Visualization-of-Supermarket-Sales</h1>
+<h1>Visualization of Supermarket Sales</h1>
 
 <h2>Introduction</h2>
 
