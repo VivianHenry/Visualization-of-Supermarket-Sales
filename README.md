@@ -2,7 +2,7 @@
 
 <h2>Introduction</h2>
 
-The purpose of this project is to create interactive visualizations using information about supermarket sales, in order to make actionable inferences. Such a process is exceedingly prevalent and extremely beneficial to businesses, as it motivates informed decisions that add value to the industry. The data used for this project is obtained from Kaggle. The dataset contains historical sales information from 3 branches of a supermarket chain, over a 3-month time frame.
+The purpose of this project is to create interactive visualizations using information about supermarket sales, in order to make actionable inferences. Such a process is exceedingly prevalent and extremely beneficial to businesses, as it motivates informed decisions that add value to the industry. The data used for this project is obtained from Kaggle. The dataset contains historical sales information from 3 branches of a supermarket chain, over a 3-month time frame. All the visualizations are interactive.
 
 Tools used: HTML, CSS, JavaScript, D3.JS, XAMPP, MySQL, PHP, Bootstrap, Python, and Excel
 
